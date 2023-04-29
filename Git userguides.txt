@@ -1,0 +1,7 @@
+git config --global push.default simple
+
+
+git add .
+git status
+git commit -m "New commit 6"
+git push origin
